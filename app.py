@@ -64,7 +64,7 @@ TURNE = [
         "descricao": "Show do Guns N Roses com beijo sob a chuva de abril.",
     },
     {
-        "data": "25 DEZ 2024",
+        "data": "11 MAIO 2026",
         "cidade": "CANOA QUEBRADA",
         "titulo": "A Primeira Viagem",
         "descricao": "Nosso primeiro show fora de casa.",
